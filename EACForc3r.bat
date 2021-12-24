@@ -21,9 +21,7 @@ set LCyan=%ESC%[96m
 echo.
 echo %LCyan%  EAC Forcer
 echo %LCyan%  Not working everytime, if not you're locked into BE
-echo %LCyan%  Make sure you run this as ADMIN!
 echo %LCyan%  Make sure to have "REMEMBER ME" enabled!
-echo %LCyan%  Have Fun!
 echo.
 echo %LCyan%  Press any key to start...
 pause>nul
